@@ -1,10 +1,10 @@
 # Road Segmentation using Convolutional Neural Networks (CNN)
 
-![Road Segmentation Demo](https://drive.google.com/file/d/17ari4OnrXR2LjoPtUEq_393RboyAMsmf/view?usp=drive_link)
+![Road Segmentation Demo](outputs/Segmentation_final_video.mp4)
 
 ## Overview
 
-This repository contains the implementation of a road segmentation model using Convolutional Neural Networks (CNNs). The goal of this project is to accurately segment road pixels in images, enabling autonomous vehicles to understand road boundaries.
+This repository contains the implementation of a road segmentation model using Convolutional Neural Networks (CNNs). This project aims to accurately segment road pixels in images, enabling autonomous vehicles to understand road boundaries.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ This repository contains the implementation of a road segmentation model using C
 
 ## Demo Video
 
-Check out the [demo video](https://drive.google.com/file/d/17ari4OnrXR2LjoPtUEq_393RboyAMsmf/view?usp=drive_link) showcasing the road segmentation model in action for open road.
+Check out the [demo video](outputs/Segmentation_final_video.mp4) showcasing the road segmentation model in action for open road.
 
 ## Introduction
 
@@ -30,6 +30,7 @@ Road segmentation is a critical task in computer vision for autonomous driving. 
 We used the UC Berkeley BDD 100K dataset for training and evaluation. It contains labeled images with pixel-level annotations for road regions. The dataset includes a variety of scenarios, lighting conditions, and road types.
 ![Images](dataset/images_3000_60.p)
 ![labels](dataset/labels_3000_60.p)
+![Test_Image](Test_Image.png) Fig. Test Image
 
 ## Model Architecture
 
@@ -73,8 +74,8 @@ Our trained model achieves an accuracy of over 95% on the test dataset. The road
 
 Here are some example results:
 
-![Segmentation Results](images/Test_image.png)
-
+![Segmentation Model_Results](outputs/Model_Prediction.png) Fig. Model Prediction
+![Segmentation Carla_Results](outputs/Carla_Prediction.png) Fig. Carla Prediction
 ## Contributions
 
 Contributions to this project are welcome. If you find any issues or want to improve the model, feel free to submit a pull request or create an issue.
