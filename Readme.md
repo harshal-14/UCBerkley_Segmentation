@@ -1,6 +1,6 @@
 # Road Segmentation using Convolutional Neural Networks (CNN)
 
-![Road Segmentation Demo](outputs/Segmentation_final_video.mp4)
+![Road Segmentation Demo](outputs/Segmentation_final_video.gif)
 
 ## Overview
 
