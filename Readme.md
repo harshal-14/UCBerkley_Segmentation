@@ -1,6 +1,3 @@
-Certainly! Here's a template for a GitHub README.md file for a road segmentation project using a Convolutional Neural Network (CNN):
-
-```markdown
 # Road Segmentation using Convolutional Neural Networks (CNN)
 
 ![Road Segmentation Demo](https://www.example.com/demo_video)
@@ -31,6 +28,8 @@ Road segmentation is a critical task in computer vision for autonomous driving. 
 ## Dataset
 
 We used the UC Berkeley BDD 100K dataset for training and evaluation. It contains labeled images with pixel-level annotations for road regions. The dataset includes a variety of scenarios, lighting conditions, and road types.
+![Images](dataset/images_3000_60.p)
+![labels](dataset/labels_3000_60.p)
 
 ## Model Architecture
 
@@ -83,6 +82,3 @@ Contributions to this project are welcome. If you find any issues or want to imp
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Remember to replace placeholders like `https://www.example.com/demo_video`, `yourusername`, and update the content based on your actual project, dataset, and implementation details. Additionally, create and organize your project's folder structure, including images, scripts, and any other necessary files.
