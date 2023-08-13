@@ -1,6 +1,6 @@
 # Road Segmentation using Convolutional Neural Networks (CNN)
 
-![Road Segmentation Demo](https://www.example.com/demo_video)
+![Road Segmentation Demo](https://drive.google.com/file/d/17ari4OnrXR2LjoPtUEq_393RboyAMsmf/view?usp=drive_link)
 
 ## Overview
 
@@ -19,7 +19,7 @@ This repository contains the implementation of a road segmentation model using C
 
 ## Demo Video
 
-Check out the [demo video]([https://www.example.com/demo_video](https://drive.google.com/file/d/17ari4OnrXR2LjoPtUEq_393RboyAMsmf/view?usp=drive_link)) showcasing the road segmentation model in action.
+Check out the [demo video](https://drive.google.com/file/d/17ari4OnrXR2LjoPtUEq_393RboyAMsmf/view?usp=drive_link) showcasing the road segmentation model in action for open road.
 
 ## Introduction
 
@@ -73,7 +73,7 @@ Our trained model achieves an accuracy of over 95% on the test dataset. The road
 
 Here are some example results:
 
-![Segmentation Results](images/segmentation_results.png)
+![Segmentation Results](images/Test_image.png)
 
 ## Contributions
 
