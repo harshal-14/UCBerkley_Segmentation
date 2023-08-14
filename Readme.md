@@ -28,9 +28,7 @@ Road segmentation is a critical task in computer vision for autonomous driving. 
 ## Dataset
 
 We used the UC Berkeley BDD 100K dataset for training and evaluation. It contains labeled images with pixel-level annotations for road regions. The dataset includes a variety of scenarios, lighting conditions, and road types.
-![Images](dataset/images_3000_60.p)
-![labels](dataset/labels_3000_60.p)
-![Test_Image](Test_Image.png) Fig. Test Image
+![Test_Image](dataset/Test_Image.jpg) Fig. Test Image
 
 ## Model Architecture
 
