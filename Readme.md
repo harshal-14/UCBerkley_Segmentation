@@ -19,7 +19,7 @@ This repository contains the implementation of a road segmentation model using C
 
 ## Demo Video
 
-Check out the [demo video](outputs/Segmentation_final_video.mp4) showcasing the road segmentation model in action for open road.
+Check out the [demo video](outputs/Segmentation_final_video.mp4) showcasing the road segmentation model in action.
 
 ## Introduction
 
@@ -74,7 +74,7 @@ Our trained model achieves an accuracy of over 95% on the test dataset. The road
 
 Here are some example results:
 
-![Segmentation Model_Results](outputs/Model_Prediction.png) Fig. Model Prediction
+![Segmentation Model_Results](outputs/Model_prediction.png) Fig. Model Prediction
 ![Segmentation Carla_Results](outputs/Carla_Prediction.png) Fig. Carla Prediction
 ## Contributions
 
