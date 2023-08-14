@@ -74,7 +74,7 @@ Our trained model achieves an accuracy of over 95% on the test dataset. The road
 
 Here are some example results:
 
-![Segmentation Model_Results](outputs/Model_prediction.png) Fig. Model Prediction
+![Segmentation Model_Results](outputs/Model_predicition.png) Fig. Model Prediction
 ![Segmentation Carla_Results](outputs/Carla_Prediction.png) Fig. Carla Prediction
 ## Contributions
 
