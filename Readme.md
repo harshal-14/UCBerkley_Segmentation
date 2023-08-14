@@ -32,7 +32,7 @@ We used the UC Berkeley BDD 100K dataset for training and evaluation. It contain
 
 ## Model Architecture
 
-Our road segmentation model is built using a U-Net architecture, which has proven effective for image segmentation tasks. The architecture consists of an encoder that captures image features and a decoder that produces the segmentation mask. The model is trained end-to-end on the dataset.
+Our road segmentation model is built using a FCN architecture, which has proven effective for image segmentation tasks. The architecture consists of an encoder that captures image features and a decoder that produces the segmentation mask. The model is trained end-to-end on the dataset.
 
 ## Usage
 
