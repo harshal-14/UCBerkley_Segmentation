@@ -3,7 +3,7 @@
 ![Road Segmentation Demo](outputs/Segmentation_final_video.gif)
 
 
-Welcome to my GitHub repository. Here's a link to the video showcasing our project:
+Welcome to my GitHub repository. Here's a link to the video showcasing my project:
 
 [![Video](https://img.youtube.com/vi/uTCOs-Ybd1Y/0.jpg)](https://youtu.be/uTCOs-Ybd1Y?feature=shared)
 
