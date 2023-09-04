@@ -2,11 +2,10 @@
 
 ![Road Segmentation Demo](outputs/Segmentation_final_video.gif)
 
-<video width="320" height="240" controls>
-    <source src="outputs/Segmentation_final_video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
 
+Welcome to my GitHub repository. Here's a link to the video showcasing our project:
+
+[![Video](https://img.youtube.com/vi/uTCOs-Ybd1Y/0.jpg)](https://youtu.be/uTCOs-Ybd1Y?feature=shared)
 
 ## Overview
 
