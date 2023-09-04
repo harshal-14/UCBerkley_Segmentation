@@ -2,6 +2,12 @@
 
 ![Road Segmentation Demo](outputs/Segmentation_final_video.gif)
 
+<video width="320" height="240" controls>
+    <source src="outputs/Segmentation_final_video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+
 ## Overview
 
 This repository contains the implementation of a road segmentation model using Convolutional Neural Networks (CNNs). This project aims to accurately segment road pixels in images, enabling autonomous vehicles to understand road boundaries.
