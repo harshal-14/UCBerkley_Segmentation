@@ -47,28 +47,10 @@ Our road segmentation model is built using a FCN architecture, which has proven 
    git clone https://github.com/Lucifer2700/UCBerkley_Segmentation.git
    ```
 
-2. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Train the model:
-
-   ```bash
-   python train.py
-   ```
-
-4. Evaluate the model:
-
-   ```bash
-   python evaluate.py
-   ```
-
-5. Run the road segmentation on your own images:
+2. Run the road segmentation on your own images:
 
    ```python
-   python predict.py --input input_image.jpg --output segmented_image.jpg
+   python drivable-area-final.py
    ```
 
 ## Results
